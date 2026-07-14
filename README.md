@@ -12,7 +12,7 @@ L'objectif : remplacer les accès SSH directs et non contrôlés par une solutio
 
 ## Architecture de l'infrastructure
 
-![Architecture](screenshots/architecture.png)
+![Architecture](Teleport-Access-Management/screenshots/architecture.png)
 
 | Composant | Détail |
 |---|---|
