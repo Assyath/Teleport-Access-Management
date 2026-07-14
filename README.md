@@ -82,7 +82,7 @@ Utilisateur (rôle jit-request)
 ```
 Teleport-Access-Management/
 ├── docs/
-│   └── memoire.pdf                # Document de mémoire complet
+│   └── Mémoire-BAKARY_SAFIRATH.pdf                # Document de mémoire complet
 ├── config/
 │   ├── teleport.png               # Configuration principale de Teleport
     ├── ssh-sandbox.png            # Configuration du noeud ssh 1
