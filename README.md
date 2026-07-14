@@ -1,6 +1,6 @@
 [README.md](https://github.com/user-attachments/files/30011410/README.md)
 # Teleport-Access-Management
-Gestion centralisée des accès dans une infrastructure dis# Teleport-Access-Management — Gestion centralisée des accès dans une infrastructure distribuée
+Gestion centralisée des accès dans une infrastructure distribuée avec Teleport
 
 ## Présentation du projet
 
